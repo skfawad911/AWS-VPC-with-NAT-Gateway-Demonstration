@@ -13,7 +13,7 @@ Functionality:
 
 ## Architecture
 
-![Diagram](Images/TransitGateway.png)
+![Diagram](Images/Diagram.png)
 
 *This is the Architecture that i will be using for this project*
 
