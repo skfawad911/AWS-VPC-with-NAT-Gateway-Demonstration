@@ -68,7 +68,7 @@ Functionality:
 - NAT Gateway Name: nat-gateway
 - Associated Subnet: public-subnet
 - Elastic IP: Automatically assigned
-![Diagram](Images/NATG.png)
+![Diagram](Images/NatG.png)
 
 ## Verification
 
