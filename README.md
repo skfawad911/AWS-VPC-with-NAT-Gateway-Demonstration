@@ -68,6 +68,7 @@ Functionality:
 - NAT Gateway Name: nat-gateway
 - Associated Subnet: public-subnet
 - Elastic IP: Automatically assigned
+![Diagram](Images/NATG.png)
 
 ## Verification
 
@@ -77,6 +78,7 @@ Functionality:
 
 2. Copy the key pair into the public instance and SSH into the private subnet instance.
 3. Test internet access from the private subnet instance.
-
+![Diagram](Images/Image1.png)
+![Diagram](Images/Image2.png)
 ## Conclusion
 This project highlights the significance of NAT Gateway in providing secure internet access to instances in the private subnet of a VPC. The service offers managed and scalable NAT capabilities, simplifying outbound traffic management.
